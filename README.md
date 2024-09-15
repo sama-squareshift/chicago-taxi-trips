@@ -1,6 +1,4 @@
-# Squareshift Intern Project
-
-# Chicago Taxi Services Project
+# Chicago Taxi Services Project - Squareshift
 
 ## Overview
 This project develops an AI solution for Chicago Taxi Services to predict tip amounts for taxi rides. It utilizes a large public dataset (184 Million Rows) located in Google Cloud BigQuery's Public Data.
