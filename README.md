@@ -1,4 +1,4 @@
-# chicago-taxi-trips
+# Squareshift Intern Project
 
 # Chicago Taxi Services Project
 
@@ -53,9 +53,6 @@ SVR emerged as the best model for scaling to the full 184 million row dataset, b
 ## Usage
 Run code in a Google Colab Notebook
 location: us-central1
-
-## Contributing
-[Include guidelines for contributors]
 
 ## Authors
 - Sama Shah
