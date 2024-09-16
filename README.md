@@ -60,8 +60,8 @@ location: us-central1
 - Google Cloud Platform
 
 ## Resources
-- [Project Summary Document]([url](https://docs.google.com/document/d/1kqJwnKXWDRxIK152KfYMCf03fqy0JJNyk2hkW3rn3s4/edit))
-- [Live Documentation]([url](https://docs.google.com/document/d/1dYRp1580HKj-3R-Sr2SmeZsdugDRXbNQVrFNHMiT-Vk/edit))
-- [Chicago Taxi Trips Demo Presentation Slides]([url](https://docs.google.com/presentation/d/1EIAYosi-YihLX3T5MwiyOPqPB4XCecMYsKWouDleeC8/edit#slide=id.p))
+1. Project Summary Document: https://docs.google.com/document/d/1kqJwnKXWDRxIK152KfYMCf03fqy0JJNyk2hkW3rn3s4/edit
+2. Live Documentation: https://docs.google.com/document/d/1dYRp1580HKj-3R-Sr2SmeZsdugDRXbNQVrFNHMiT-Vk/edit
+3. Chicago Taxi Trips Demo Presentation Slides: https://docs.google.com/presentation/d/1EIAYosi-YihLX3T5MwiyOPqPB4XCecMYsKWouDleeC8/edit#slide=id.p
 
-For more detailed information, please refer to the full project documentation.
+For more detailed information, please refer to the full project documentation (1).
